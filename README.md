@@ -6,8 +6,17 @@
 
 
 
+Here is my code:
+```js
+  var x = 100;
+  const dog = 'pinky';
+```
 
-
+  ```php
+  $age = 19;
+  $name = "Akshay";
+  echo strtoupper($name);
+  ```
 
 
 
