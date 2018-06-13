@@ -11,7 +11,8 @@ Box Office
 
 #### Block Quote
 > _We have a  Hulk,- Tony Stark_
-Avengers is the ~~best!~~
+
+~~Avengers is the best!~~
 
 [More Info On Star Wars The Last Jedi.](README.md)
 
