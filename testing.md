@@ -14,5 +14,19 @@ Box Office
 
 ~~Avengers is the best!~~
 
+#### List Of Heros
+
++ Thor
++ Ironman
++ Hulk
++ Captain America
+
+#### List Of Villains
+
+1. Thanos
+1. Loki
+1. Hela
+1. Killmonger
+
 [More Info On Star Wars The Last Jedi.](README.md)
 
