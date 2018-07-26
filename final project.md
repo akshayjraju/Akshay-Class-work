@@ -46,7 +46,7 @@ Emphasis changes the text style.
     
  |Link|
  |-----|
- [title](https://www.example.com) is an example 
+ https://www.markdownguide.org/cheat-sheet/ You can use this cheat sheet for futur reference. 
  
  |Image|
  |---------|
