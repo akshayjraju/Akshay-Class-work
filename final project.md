@@ -43,9 +43,12 @@ Emphasis changes the text style.
 3. Item 3
    * Item 3a
    * Item 3b
-   
-|Images                          |
-| ------------------------------ |
-|![GitHub Logo](/images/logo.png)|
-|Format: ![Alt Text](url)        |
+    
+ |Link|
+ |-----|
+ [title](https://www.example.com) is an example 
+ 
+ |Image|
+ |---------|
+ |![alt text](image.jpg)|
 
